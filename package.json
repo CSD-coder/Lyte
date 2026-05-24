@@ -1,5 +1,8 @@
 {
   "name": "Lyte",
   "version": "1.0.0",
+  "scripts": {
+    "start": "node lyte.js"
+  },
   "author": "CSD"
 }
